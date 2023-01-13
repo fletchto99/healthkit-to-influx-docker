@@ -1,3 +1,6 @@
 [submodule "Healthkit-influxdb-grafana"]
     path = app
     url = git@github.com:fletchto99/Healthkit-influxdb-grafana.git
+[submodule "app"]
+	path = app
+	url = git@github.com:fletchto99/Healthkit-influxdb-grafana.git
